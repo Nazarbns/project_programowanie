@@ -1,0 +1,16 @@
+C:\Users\bunni\OneDrive\Рабочий стол\progma_proje\HealthTracker\HealthTracker\obj\Debug\HealthTracker.csproj.AssemblyReference.cache
+C:\Users\bunni\OneDrive\Рабочий стол\progma_proje\HealthTracker\HealthTracker\obj\Debug\HealthTracker.MainForm.resources
+C:\Users\bunni\OneDrive\Рабочий стол\progma_proje\HealthTracker\HealthTracker\obj\Debug\HealthTracker.Properties.Resources.resources
+C:\Users\bunni\OneDrive\Рабочий стол\progma_proje\HealthTracker\HealthTracker\obj\Debug\HealthTracker.csproj.GenerateResource.cache
+C:\Users\bunni\OneDrive\Рабочий стол\progma_proje\HealthTracker\HealthTracker\obj\Debug\HealthTracker.csproj.CoreCompileInputs.cache
+C:\Users\bunni\OneDrive\Рабочий стол\progma_proje\HealthTracker\HealthTracker\bin\Debug\HealthTracker.exe.config
+C:\Users\bunni\OneDrive\Рабочий стол\progma_proje\HealthTracker\HealthTracker\bin\Debug\HealthTracker.exe
+C:\Users\bunni\OneDrive\Рабочий стол\progma_proje\HealthTracker\HealthTracker\bin\Debug\HealthTracker.pdb
+C:\Users\bunni\OneDrive\Рабочий стол\progma_proje\HealthTracker\HealthTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bunni\OneDrive\Рабочий стол\progma_proje\HealthTracker\HealthTracker\bin\Debug\EntityFramework.dll
+C:\Users\bunni\OneDrive\Рабочий стол\progma_proje\HealthTracker\HealthTracker\bin\Debug\System.Data.SQLite.dll
+C:\Users\bunni\OneDrive\Рабочий стол\progma_proje\HealthTracker\HealthTracker\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\bunni\OneDrive\Рабочий стол\progma_proje\HealthTracker\HealthTracker\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\bunni\OneDrive\Рабочий стол\progma_proje\HealthTracker\HealthTracker\obj\Debug\HealthTr.D6BEBD93.Up2Date
+C:\Users\bunni\OneDrive\Рабочий стол\progma_proje\HealthTracker\HealthTracker\obj\Debug\HealthTracker.exe
+C:\Users\bunni\OneDrive\Рабочий стол\progma_proje\HealthTracker\HealthTracker\obj\Debug\HealthTracker.pdb

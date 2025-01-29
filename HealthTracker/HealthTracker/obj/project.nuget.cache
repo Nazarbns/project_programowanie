@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2wZJaP8xDh8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bunni\\OneDrive\\Рабочий стол\\progma_proje\\HealthTracker\\HealthTracker\\HealthTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bunni\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\bunni\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.119\\stub.system.data.sqlite.core.netframework.1.0.119.nupkg.sha512",
+    "C:\\Users\\bunni\\.nuget\\packages\\system.data.sqlite\\1.0.119\\system.data.sqlite.1.0.119.nupkg.sha512",
+    "C:\\Users\\bunni\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512",
+    "C:\\Users\\bunni\\.nuget\\packages\\system.data.sqlite.ef6\\1.0.119\\system.data.sqlite.ef6.1.0.119.nupkg.sha512",
+    "C:\\Users\\bunni\\.nuget\\packages\\system.data.sqlite.linq\\1.0.119\\system.data.sqlite.linq.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
